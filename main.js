@@ -194,7 +194,7 @@ var routes = [
     { path: 'about', component: _about_about_component__WEBPACK_IMPORTED_MODULE_13__["AboutComponent"] },
     { path: 'contact', component: _contact_contact_component__WEBPACK_IMPORTED_MODULE_16__["ContactComponent"] },
     { path: 'blog', component: _blog_blog_component__WEBPACK_IMPORTED_MODULE_14__["BlogComponent"] },
-    { path: 'main', component: _main_main_component__WEBPACK_IMPORTED_MODULE_11__["MainComponent"] },
+    { path: '', component: _main_main_component__WEBPACK_IMPORTED_MODULE_11__["MainComponent"] },
     { path: '', redirectTo: 'main', pathMatch: 'full' }
 ];
 var AppModule = /** @class */ (function () {
